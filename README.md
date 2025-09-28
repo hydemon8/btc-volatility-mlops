@@ -186,6 +186,7 @@ curl -X 'POST' \
 ```
 ## Estructura del proyecto
 
+```bash
 btc-volatility-mlops/
 ├── app/               # Lógica de la API (FastAPI) y modelo serializado
 ├── data/              # Dataset original
@@ -196,6 +197,7 @@ btc-volatility-mlops/
 ├── Dockerfile         # Receta para construir la imagen de la API
 ├── requirements.txt   # Dependencias del proyecto
 └── README.md          # Documentación
+```
 
 ## Contacto 
 
